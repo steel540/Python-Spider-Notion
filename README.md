@@ -1,5 +1,7 @@
-# 透過Pthon撈取Notion資料
+# Python-Spider-Notion
+This article aims to introduce a method for extracting data from tables (databases) on the Notion platform using Python. It provides users with convenient data management, backup, and other application functionalities. Additionally, it delves into common errors in table creation that often result in incorrect retrieval of database identifiers, impacting the data extraction process. To illustrate the process, detailed examples will be provided, culminating in a successful data extraction demonstration.
 
+# 透過Pthon撈取Notion資料
 
 # 動機
 
