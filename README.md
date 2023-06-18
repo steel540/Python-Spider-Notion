@@ -1,9 +1,5 @@
 # 透過Pthon撈取Notion資料
 
-Cover: image/pythonLinec0ver.jpg
-Created: April 11, 2023 9:44 PM
-專案名稱: Good tools, 自動化
-工具項目: Notion API, Python
 
 # 動機
 
