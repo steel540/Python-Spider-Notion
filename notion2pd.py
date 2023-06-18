@@ -10,7 +10,7 @@ from notion_client import Client
 
 
 # 設定 Notion API Token 和 Database ID
-notion = Client(auth="secret_ASN0PiHAkhGu7RpN2arKAJkLeNtjCAFpb3Jw6UdaXxC")
+notion = Client(auth="Your Notion Token")
 
 database_id = "779c80efc94b483eaf6f5c6f653ef517"
                
